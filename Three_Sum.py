@@ -34,4 +34,4 @@ def three_sum(nums: List[int]) -> List[List[int]]:
 
 # Example usage:
 if __name__ == "__main__":
-    print(three_sum([-1, 0, 1, 2, -1, -4]))  # [[-1, -1, 2], [-1, 0, 1]]
+    print(three_sum([-1, 0, 1, 2, -1, -4]))
